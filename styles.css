@@ -4,18 +4,21 @@
 .style{
     border-style: dotted;
     color: rgb(216, 32, 32);
+    
    
 
 }
 .inner{
     border-style: solid;
     color: chartreuse;
+    padding: 20px;
+    margin: 5%;
     
         border-style: solid;
         color: chartreuse;
     
 }
 p{
-    color: blue;
+    color: rgb(15, 15, 48);
 }
 
